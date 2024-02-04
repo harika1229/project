@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "third file has no data"
+echo "i want to commit both the files"
