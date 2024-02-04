@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "working on git file2"
+echo "we are working on restoration of the file2"
+echo "i have unstaged with the code --staged and editing the file"
+echo "by adding i want to stage this file first"
